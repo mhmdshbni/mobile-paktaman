@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "appsben1",
+    "slug": "snack-cf97d3ee-80de-4839-8e88-b428118fe194",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.muhmdshbni.snackcf97d3ee80de48398e88b428118fe194"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bfbcb20b-658d-4074-97d7-8f31f9ac369d"
+      }
+    }
+  }
+}
